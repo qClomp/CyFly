@@ -12,5 +12,9 @@
 			"Name": "PythonScriptPlugin",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
